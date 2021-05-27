@@ -49,7 +49,8 @@ Calculates if agents will collide or not and makes a change in velocity dependin
 ## *Obstacle Avoidance*
 
 Thea agent casts 1 or 1+ rays out in the direction its moving in, if a ray collides with an obstacle the agent moves to a target that will make it move in a manner such that it will avoid the obstacle. The rays are not infinite, only extend a short distance to detect nearby obstacles
-
+-------------------------------------------------------------------------------------------------------------------------------
+# **Delegated Steering Behaviors**
 -------------------------------------------------------------------------------------------------------------------------------
 ## *Pursue*
 
